@@ -2,8 +2,10 @@ Hi there 👋
 I'm Zhandos, a  Results-driven Senior Software Engineer with 10+ years of experience in .NET development and SQL optimization. 
 Skilled in :
 
-*reducing database query times and building robust, high-traffic enterprise applications. Adept at collaborating with
- cross-functional teams to deliver reliable solutions. Open to global remote or hybrid positions
+- reducing database query times 
+- building robust, high-traffic enterprise applications.
+- Adept at collaborating with cross-functional teams to deliver reliable solutions
+- Open to global remote or hybrid positions
 
 
 🌱 I’m currently learning how to "think" like a Software Architect;
