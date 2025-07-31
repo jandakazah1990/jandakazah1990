@@ -10,7 +10,7 @@ Skilled in :
 
 
 
-🌱 I’m currently learning how to "think" like a Software Architect;
+🌱 I’m currently learning how to "think" like a Software Architect;</br>
 👯 I’m looking to collaborate on projects helping to make the World a better place
 🤔 I’m looking for help with enhancing Team/Tech Lead skills
 - 📫 How to reach me: [jandakazah@gmail.com](mailto:jandakazah@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jandakazah/) 
