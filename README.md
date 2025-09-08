@@ -5,8 +5,8 @@ I'm Zhandos, a  Results-driven Senior Software Engineer with 10+ years of experi
 Skilled in :
 - reducing database query times 
 - building robust, high-traffic enterprise applications.
-- Adept at collaborating with cross-functional teams to deliver reliable solutions
-- Open to global remote or hybrid positions
+- adept at collaborating with cross-functional teams to deliver reliable solutions
+- open to global remote or hybrid positions
 
 
 
