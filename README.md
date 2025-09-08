@@ -17,5 +17,5 @@ Skilled in :
 🤔 I’m looking for help with enhancing Team/Tech Lead skills
 </br>
 
-➡️ My Developer Mind Card
+➡️ My [Developer Mind Card](Developer mind card.md)
 - 📫 How to reach me: [jandakazah@gmail.com](mailto:jandakazah@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jandakazah/) 
