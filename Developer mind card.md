@@ -1,4 +1,4 @@
-# Danil Morikov's Mind Card. 
+# Zhandos Sailau's Mind Card. 
 ## How do I introduce myself as a Software Developer.
 
 ```mermaid
